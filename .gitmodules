@@ -1,0 +1,12 @@
+[submodule "scpred-train-workflow"]
+	path = scpred-train-workflow
+	url = https://github.com/ebi-gene-expression-group/scpred-train-workflow.git
+	branch = develop
+[submodule "scmap-train-workflow"]
+	path = scmap-train-workflow
+	url = https://github.com/ebi-gene-expression-group/scmap-train-workflow.git
+	branch = develop
+[submodule "garnett-train-workflow"]
+	path = garnett-train-workflow
+	url = https://github.com/ebi-gene-expression-group/garnett-train-workflow.git
+	branch = develop
