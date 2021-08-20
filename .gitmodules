@@ -10,3 +10,6 @@
 	path = garnett-train-workflow
 	url = https://github.com/ebi-gene-expression-group/garnett-train-workflow.git
 	branch = develop
+[submodule "singlecellnet-train-workflow"]
+	path = singlecellnet-train-workflow
+	url = https://github.com/ebi-gene-expression-group/singlecellnet-train-workflow
