@@ -13,3 +13,4 @@
 [submodule "singlecellnet-train-workflow"]
 	path = singlecellnet-train-workflow
 	url = https://github.com/ebi-gene-expression-group/singlecellnet-train-workflow
+    branch = develop
